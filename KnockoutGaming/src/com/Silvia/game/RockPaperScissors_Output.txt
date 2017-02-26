@@ -1,0 +1,120 @@
+Mode of play: unfair
+---------------------------------------------------
+--------------------GAME START!--------------------
+---------------------------------------------------
+Game 1
+Player 1 selected paper
+Player 2 selected rock
+Player 1 wins!
+-------------------------------
+Game 2
+Player 1 selected scissors
+Player 2 selected rock
+Player 2 wins!
+-------------------------------
+Game 3
+Player 1 selected paper
+Player 2 selected rock
+Player 1 wins!
+-------------------------------
+Game 4
+Player 1 selected scissors
+Player 2 selected rock
+Player 2 wins!
+-------------------------------
+Game 5
+Player 1 selected rock
+Player 2 selected rock
+It's a draw!
+-------------------------------
+Game 6
+Player 1 selected rock
+Player 2 selected rock
+It's a draw!
+-------------------------------
+Game 7
+Player 1 selected rock
+Player 2 selected rock
+It's a draw!
+-------------------------------
+Game 8
+Player 1 selected paper
+Player 2 selected rock
+Player 1 wins!
+-------------------------------
+Game 9
+Player 1 selected paper
+Player 2 selected rock
+Player 1 wins!
+-------------------------------
+Game 10
+Player 1 selected rock
+Player 2 selected rock
+It's a draw!
+-------------------------------
+
+===========GAME STATS==========
+Player 1 won a total of 4 times.
+Player 2 won a total of 2 times.
+Out of all the games, 4 were a draw.
+
+Mode of play: fair
+---------------------------------------------------
+--------------------GAME START!--------------------
+---------------------------------------------------
+Game 1
+Player 1 selected scissors
+Player 2 selected scissors
+It's a draw!
+-------------------------------
+Game 2
+Player 1 selected rock
+Player 2 selected rock
+It's a draw!
+-------------------------------
+Game 3
+Player 1 selected paper
+Player 2 selected rock
+Player 1 wins!
+-------------------------------
+Game 4
+Player 1 selected rock
+Player 2 selected scissors
+Player 1 wins!
+-------------------------------
+Game 5
+Player 1 selected paper
+Player 2 selected paper
+It's a draw!
+-------------------------------
+Game 6
+Player 1 selected paper
+Player 2 selected rock
+Player 1 wins!
+-------------------------------
+Game 7
+Player 1 selected scissors
+Player 2 selected rock
+Player 2 wins!
+-------------------------------
+Game 8
+Player 1 selected rock
+Player 2 selected scissors
+Player 1 wins!
+-------------------------------
+Game 9
+Player 1 selected paper
+Player 2 selected paper
+It's a draw!
+-------------------------------
+Game 10
+Player 1 selected paper
+Player 2 selected scissors
+Player 2 wins!
+-------------------------------
+
+===========GAME STATS==========
+Player 1 won a total of 4 times.
+Player 2 won a total of 2 times.
+Out of all the games, 4 were a draw.
+
